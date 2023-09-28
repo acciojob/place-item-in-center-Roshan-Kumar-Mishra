@@ -6,7 +6,7 @@
 	height: 100vh;
 	background-color: black;
 	justify-content: center;
-	padding: 250px 0px 0px 0px;
+	position: center;
 	
 }
 .item-1{
